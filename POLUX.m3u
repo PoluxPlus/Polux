@@ -259,7 +259,7 @@ https://master.tucableip.com/pat/playlist.m3u8?PlaylistM3UCL
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1176" group-title="Bolivia" group-title="Bolivia" tvg-name="Red Uno Cochabamba" tvg-logo="https://i2.paste.pics/d26de779a340ad1e14d41543c79c3174.png", Red Uno Cochabamba | BO
 http://streannlivereduno.cachefly.net/reduno1/reduno1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1178" tvg-name="Red Uno La Paz" tvg-logo="https://i2.paste.pics/d26de779a340ad1e14d41543c79c3174.png", Red Uno La Paz | BO
+#EXTINF:-1 tvg-id="1178" group-title="Bolivia" tvg-name="Red Uno La Paz" tvg-logo="https://i2.paste.pics/d26de779a340ad1e14d41543c79c3174.png", Red Uno La Paz | BO
 http://streannlivereduno.cachefly.net/reduno2/reduno2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1177" group-title="Bolivia" tvg-name="Red Uno Santa Cruz" tvg-logo="https://i2.paste.pics/d26de779a340ad1e14d41543c79c3174.png", Red Uno Santa Cruz | BO
 http://streannlivereduno.cachefly.net/reduno3/reduno3/playlist.m3u8?PlaylistM3UCL
